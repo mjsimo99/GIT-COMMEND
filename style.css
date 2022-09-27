@@ -1,3 +1,7 @@
-#command-color{
-    color: gray;
+h1{
+    color: aqua;
+    text-align: center;
+}
+p{
+    text-align: center;
 }

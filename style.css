@@ -1,7 +1,11 @@
+body{
+    background-color: #f6f7eb;
+}
 h1{
-    color: aqua;
+    color: #393e41;
     text-align: center;
 }
 p{
     text-align: center;
+    color: #e94f37;
 }
